@@ -18,7 +18,7 @@ Projeto realizado durante evento exclusivo e gratuito, promovido para ensino de 
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto Social" src="" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -31,9 +31,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 O projeto  é um programa  para divulgação das redes sociais de uma pessoa, em um só lugar de forma dinâmica, interativa e divertida.
 - [Acesse o projeto finalizado, online](https://giovannigoulart.github.io/Projeto-Social/)
-
-O DevLinks é um agregador de links para usar como cartão de visitas online.
-
 
 
 ## :memo: Licença
