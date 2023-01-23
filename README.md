@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center">Projeto Redes Sociais </h1>
 
 <p align="center">
 Projeto realizado durante evento exclusivo e gratuito, promovido para ensino de tecnologias WEB. 
